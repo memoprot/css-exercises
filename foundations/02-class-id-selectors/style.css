@@ -1,0 +1,19 @@
+.n {
+    background-color: rgb(250, 150, 150);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#d2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+    
+.n.three {
+    font-size: 24px;
+}    
+
+#d4 {
+    background-color: hsl(95, 85%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
